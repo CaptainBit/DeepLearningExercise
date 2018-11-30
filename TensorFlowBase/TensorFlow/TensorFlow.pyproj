@@ -31,6 +31,9 @@
     <Compile Include="NotesDeCours.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="PredictHousePrices.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TensorFlow.py" />
     <Compile Include="TextClassifier.py">
       <SubType>Code</SubType>
